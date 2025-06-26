@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Ioannis
 
-<!--
-**I-Mougios/I-Mougios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in Greece | 🧠 BSc in Economics & MSc in Data Science | 🔍 Seeking part-time / freelance data projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Python enthusiast and data engineer with a strong focus on clean design, performance, and real-world usability.
+
+---
+
+## 🚀 What I Do
+
+I'm passionate about building reliable data systems and writing high-quality Python code. My areas of experience include:
+
+- 🧩 **Data pipelines** & orchestration
+- 🧼 **ETL processes**, data cleaning & schema standardization
+- 🕸️ **Web scraping** (Scrapy, Requests)
+- 🧪 **Data validation** using Pythonic techniques
+- 🛠️ **Custom utilities** for handling large files or messy datasets
+
+I often combine Python with:
+
+- 💾 **Relational databases**: MySQL, OracleDB
+- 🍃 **NoSQL**: MongoDB
+- 🔥 **Distributed systems**: PySpark for scalable data transformation
+
+---
+
+## 🐍 Python Craftsmanship
+
+In my spare time, I maintain a [**Python blog**]: https://github.com/I-Mougios/python_blog where I:
+
+- Explore powerful libraries & patterns
+- Build reusable tools & project templates
+- Apply advanced concepts like:
+  - Decorators, context managers & descriptors
+  - Iterator & sequence protocols
+  - Metaclasses & metaprogramming
+
+Projects are designed with:
+- ✅ Clean file structures
+- 🧪 Unit tests
+- 🐳 Docker support
+- 📜 Meaningful documentation
+
+---
+
+## 📐 Technical & Analytical Background
+
+Alongside my engineering work, I bring a solid academic foundation in:
+
+- 🧮 **Mathematical Programming** e.g Linear Optimization
+- 📊 **Statistical Analysis**
+- 🤖 **Machine & Deep Learning**
+
+My master's thesis explores solving the **Traveling Salesman Problem (TSP)** using **Graph Neural Networks**, combining optimization, deep learning, and graph theory.
+
+---
+
+
+## 💼 Open to Work
+
+I'm actively looking for **part-time** or **freelance** work in:
+
+- Python development
+- Data engineering
+- Data scraping & ingestion
+- Pipeline & automation design
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: <your-email>
+- 💼 LinkedIn: https://www.linkedin.com/in/ioannis-mougios
