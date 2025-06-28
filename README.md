@@ -27,7 +27,7 @@ I often combine Python with:
 
 ## 🐍 Python Craftsmanship
 
-In my spare time, I maintain a [**Python blog**]: https://github.com/I-Mougios/python_blog where I:
+In my spare time, I maintain a [**Python blog**]: <https://github.com/I-Mougios/python_blog> where I:
 
 - Explore powerful libraries & patterns
 - Build reusable tools & project templates
@@ -70,5 +70,5 @@ I'm actively looking for **part-time** or **freelance** work in:
 
 ## 📫 Reach Me
 
-- 📧 Email: <your-email>
-- 💼 LinkedIn: https://www.linkedin.com/in/ioannis-mougios
+- 📧 Email: <i.mougios.tech@gmail.com>
+- 💼 LinkedIn: <https://www.linkedin.com/in/ioannis-mougios>
