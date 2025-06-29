@@ -54,6 +54,8 @@ Alongside my engineering work, I bring a solid academic foundation in:
 
 My master's thesis explores solving the **Traveling Salesman Problem (TSP)** using **Graph Neural Networks**, combining optimization, deep learning, and graph theory.
 
+🔗 You can find a few of my academic mini-projects here: <https://github.com/I-Mougios/ml-mini-projects>
+
 ---
 
 
