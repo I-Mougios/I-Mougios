@@ -52,9 +52,11 @@ Alongside my engineering work, I bring a solid academic foundation in:
 - 📊 **Statistical Analysis**
 - 🤖 **Machine & Deep Learning**
 
+🔗 a few of my academic mini-projects here: <https://github.com/I-Mougios/ml-mini-projects>
+
 My master's thesis explores solving the **Traveling Salesman Problem (TSP)** using **Graph Neural Networks**, combining optimization, deep learning, and graph theory.
 
-🔗 You can find a few of my academic mini-projects here: <https://github.com/I-Mougios/ml-mini-projects>
+🔗 master_thesis here: <https://github.com/I-Mougios/tsp-ilp-gnn-thesis>
 
 ---
 
