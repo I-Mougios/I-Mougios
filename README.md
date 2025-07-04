@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ioannis
 
-🌍 Based in Greece | 🧠 BSc in Economics & MSc in Data Science | 🔍 Seeking part-time / freelance data projects
+🌍 Based in Greece | 🧠 BSc in Economics & MSc in Data Science | 🔍 freelance data projects
 
 
 I'm a Python enthusiast and data engineer with a strong focus on clean design, performance, and real-world usability.
