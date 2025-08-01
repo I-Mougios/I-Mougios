@@ -13,13 +13,12 @@ I'm passionate about building reliable data systems and writing high-quality Pyt
 
 - 🧩 **Data pipelines** & orchestration
 - 🧼 **ETL processes**, data cleaning & schema standardization
-- 🕸️ **Web scraping** (Scrapy, Requests)
 - 🧪 **Data validation** using Pythonic techniques
 - 🛠️ **Custom utilities** for handling large files or messy datasets
 
 I often combine Python with:
 
-- 💾 **Relational databases**: MySQL, OracleDB
+- 💾 **Relational databases**: MySQL, OracleDB e.tc.
 - 🍃 **NoSQL**: MongoDB
 - 🔥 **Distributed systems**: PySpark for scalable data transformation
 
@@ -67,7 +66,7 @@ I'm actively looking for **part-time** or **freelance** work in:
 
 - Python development
 - Data engineering
-- Data scraping & ingestion
+- Data ingestion & ETL
 - Pipeline & automation design
 
 ---
