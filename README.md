@@ -9,7 +9,7 @@ I'm a Python enthusiast and data engineer with a strong focus on clean design, p
 
 ## 🚀 What I Do
 
-I'm passionate about building reliable data systems and writing high-quality Python code. My areas of experience include:
+I'm building reliable data systems and writing high-quality Python code. My areas of experience include:
 
 - 🧩 **Data pipelines** & orchestration
 - 🧼 **ETL processes**, data cleaning & schema standardization
@@ -62,7 +62,7 @@ My master's thesis explores solving the **Traveling Salesman Problem (TSP)** usi
 
 ## 💼 Open to Work
 
-I'm actively looking for **part-time** or **freelance** work in:
+I'm actively looking for **freelance** work in:
 
 - Python development
 - Data engineering
