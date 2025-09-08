@@ -57,17 +57,6 @@ My master's thesis explores solving the **Traveling Salesman Problem (TSP)** usi
 
 🔗 master_thesis here: <https://github.com/I-Mougios/tsp-ilp-gnn-thesis>
 
----
-
-
-## 💼 Open to Work
-
-I'm actively looking for **freelance** work in:
-
-- Python development
-- Data engineering
-- Data ingestion & ETL
-- Pipeline & automation design
 
 ---
 
