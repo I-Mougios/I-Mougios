@@ -37,8 +37,6 @@ In my spare time, I maintain a [**Python blog**]: <https://github.com/I-Mougios/
 
 Projects are designed with:
 - ✅ Clean file structures
-- 🧪 Unit tests
-- 🐳 Docker support
 - 📜 Meaningful documentation
 
 ---
